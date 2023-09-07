@@ -1,2 +1,2 @@
 # classic-freeway-using-javascript
-recreation of a classic game using javascript
+Recreation of a classic game using Javascript.
